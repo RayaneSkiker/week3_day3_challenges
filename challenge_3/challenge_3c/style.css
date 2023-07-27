@@ -14,5 +14,16 @@ div div {
 }
 
 #big_div {
+	display: flex;
 	border: 5px solid black;
+}
+
+#sub_div2
+{
+	align-items: center;
+}
+
+#sub_div3
+{
+	align-items: flex-end;
 }

@@ -5,9 +5,14 @@ h1 {
 
 img {
 	width: 100px;
+	height: 100px;
 }
 
-div {
+div {	
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	display: flex;
 	margin: auto;
 	width: 1250px;
 	height: 400px;
